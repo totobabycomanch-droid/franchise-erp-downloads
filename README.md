@@ -5,7 +5,7 @@ GitHub 로그인이나 저장소 초대 없이 다운로드할 수 있습니다.
 
 ## Day01·Day02 업데이트
 
-[Day01 한국어 준비 검사·Day02 r4](https://github.com/totobabycomanch-droid/franchise-erp-downloads/releases/tag/day02-verification-update-20261120-r4)
+[Day01 한국어 준비 검사·Day02 r5](https://github.com/totobabycomanch-droid/franchise-erp-downloads/releases/tag/day02-verification-update-20261121-r5)
 
 Release에 첨부된 ZIP과 SHA-256 파일을 받고 ZIP 안 README.md부터 읽으세요.
 GitHub가 자동 생성하는 Source code ZIP은 실습 자료가 아닙니다.
