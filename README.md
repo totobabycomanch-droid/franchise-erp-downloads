@@ -14,3 +14,11 @@ GitHub가 자동 생성하는 Source code ZIP은 실습 자료가 아닙니다.
 v0.2.1 시작본의 franchise-erp-beta에서 Day01·Day02를 진행하는 독자용 업데이트입니다.
 최초 ERP 시작본·개인 완료본·Supabase DB 백업은 포함하지 않습니다.
 개인 코드·.env·키를 이 저장소나 Issues에 올리지 마세요.
+
+<!-- manuscript-test-download -->
+
+## Day02 문서 전용 원고 테스트
+
+[최신 문서 전용 테스트 ZIP 다운로드](https://github.com/totobabycomanch-droid/franchise-erp-downloads/releases/tag/day02-manuscript-test-20261121-015823)
+
+기존 r4 이상 실습 테스터용입니다. ZIP의 README.md에 따라 문서 두 개만 복사하고 최신 EPUB을 열어 주세요. 앱 코드나 DB 재설치는 필요하지 않습니다. 이 테스트 자료는 위 실습 업데이트와 별개입니다.
