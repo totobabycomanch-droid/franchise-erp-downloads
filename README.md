@@ -1,5 +1,12 @@
 # 프랜차이즈 ERP 실습 자료 다운로드
 
+## Day02 시작 자료 보완 r8
+
+[공통 규약·검사 자료 r8과 최신 Day02 원고](https://github.com/totobabycomanch-droid/franchise-erp-downloads/releases/tag/day02-verification-update-20261122-r8)
+
+첫 AI 조사 요청 전에 r8 ZIP의 README에 따라 적용 전 확인부터 진행하세요. 원래 베타와 r1~r7 모두 사용할 수 있습니다. 기존 앱·.env·DB·기록·Mock 검사는 보존합니다. 이미 r8이면 다시 적용하지 않습니다. 아래 r7 안내는 이전 실행기 보완 이력이며 현재 실습 자료는 r8을 사용하세요.
+
+
 ## Day02 자동 검증 보완 r7
 
 기존 테스터(r4~r6)는 **day02-runner-fix-20261122-r7.zip** 실행기 전용 패치를 권장합니다. 독자가 추가한 Mock 검사와 문서를 보존합니다. 원래 베타에서 검증 자산을 아직 준비하지 않았다면 누적 ZIP을 선택하세요. 각각 README의 -CheckOnly부터 진행하세요.
