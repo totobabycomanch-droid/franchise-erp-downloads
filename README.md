@@ -2,6 +2,8 @@
 
 ## Day02 자동 검증 보완 r7
 
+기존 테스터(r4~r6)는 **day02-runner-fix-20261122-r7.zip** 실행기 전용 패치를 권장합니다. 독자가 추가한 Mock 검사와 문서를 보존합니다. 원래 베타에서 검증 자산을 아직 준비하지 않았다면 누적 ZIP을 선택하세요. 각각 README의 -CheckOnly부터 진행하세요.
+
 [검증 도구 r7·최신 Day02 원고](https://github.com/totobabycomanch-droid/franchise-erp-downloads/releases/tag/day02-verification-update-20261122-r7)
 
 r4~r6으로 실습 중이어도 Day02 3.4 자동 검증 전 검증 도구만 갱신하세요. 앱 코드·.env·DB는 보존합니다. ZIP의 README에서 적용 전 확인부터 진행하세요.
