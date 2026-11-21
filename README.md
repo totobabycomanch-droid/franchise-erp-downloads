@@ -1,5 +1,12 @@
 # 프랜차이즈 ERP 실습 자료 다운로드
 
+## Day02 자동 검증 보완 r7
+
+[검증 도구 r7·최신 Day02 원고](https://github.com/totobabycomanch-droid/franchise-erp-downloads/releases/tag/day02-verification-update-20261122-r7)
+
+r4~r6으로 실습 중이어도 Day02 3.4 자동 검증 전 검증 도구만 갱신하세요. 앱 코드·.env·DB는 보존합니다. ZIP의 README에서 적용 전 확인부터 진행하세요.
+
+
 실습 업데이트는 [Releases](https://github.com/totobabycomanch-droid/franchise-erp-downloads/releases)에서 받으세요.
 GitHub 로그인이나 저장소 초대 없이 다운로드할 수 있습니다.
 
@@ -7,7 +14,7 @@ GitHub 로그인이나 저장소 초대 없이 다운로드할 수 있습니다.
 
 [Day01 한국어 준비 검사·Day02 안내 수정 r6](https://github.com/totobabycomanch-droid/franchise-erp-downloads/releases/tag/day02-verification-update-20261121-r6)
 
-이미 r4 이상을 적용했다면 다시 받을 필요 없이 Day02 사전 점검으로 진행하세요.
+r4~r6의 기존 안내입니다. 현재 Day02 자동 검증은 위 r7 업데이트를 적용하세요.
 아직 업데이트하지 않았고 준비 파일 누락이 확인됐다면 Release의 ZIP과 SHA-256 파일을 받고 ZIP 안 README.md부터 읽으세요.
 GitHub가 자동 생성하는 Source code ZIP은 실습 자료가 아닙니다.
 
